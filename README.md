@@ -4,7 +4,7 @@
 Hi there! I'm Connor, a geoscientist with a PhD in Geology and Earth Sciences. I started learning about R and Python during my PhD, and have since been learning how to code and ultimately visualise and work with geoscience-based data. This repository has some, hopefully useful, examples of code and projects I work on publicly in my spare time.
 
 ### Current Projects
-- Python for Geoscience (just started!)
+- Python for Geoscience
 
 <!--
 **connordgeo/connordgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
