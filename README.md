@@ -4,8 +4,8 @@
 Hi there! I'm Connor, a geoscientist with a PhD in Geology and Earth Sciences. I started learning about R and Python during my PhD, and have since been learning how to code and ultimately visualise and work with geoscience-based data. This repository is a work in progress of my current day-to-day scripts and has some, hopefully useful, examples of code and projects I work on publicly in my spare time.
 
 ### Current Projects
-- Python for Geoscience - Easy-to-follow Jupyter Notebooks for working with, analysing and visualising Geoscience data.
-- Geoscience in Dash - Ongoing development of Plotly-Dash based apps for working with Geoscience data in an interactive format.
+- [Python for Geoscience](https://github.com/geo-cjd/Python-for-Geoscience) - Easy-to-follow Jupyter Notebooks for working with, analysing and visualising Geoscience data.
+- [Geoscience in Dash](https://github.com/geo-cjd/Geoscience-in-Dash) - Ongoing development of Plotly-Dash based apps for working with Geoscience data in an interactive format.
 
 <!--
 **connordgeo/connordgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
