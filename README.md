@@ -6,6 +6,7 @@ Hi there! I'm Connor, a geoscientist with a PhD in Geology and Earth Sciences. I
 ### Current Projects
 - [Python for Geoscience](https://github.com/geo-cjd/Python-for-Geoscience) - Easy-to-follow Jupyter Notebooks for working with, analysing and visualising Geoscience data.
 - [Geoscience in Dash](https://github.com/geo-cjd/Geoscience-in-Dash) - Ongoing development of Plotly-Dash based apps for working with Geoscience data in an interactive format.
+- QGIS Plugins - Early development of some QGIS plugins specifically related to map formatting and automation.
 
 <!--
 **connordgeo/connordgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
